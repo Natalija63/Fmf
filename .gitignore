@@ -16,8 +16,6 @@
 *.snm
 *.synctex.gz
 *.zip
-!urnik-resitev.pdf
-!urnik.pdf
 
 # MacOS
 __MACOSX
